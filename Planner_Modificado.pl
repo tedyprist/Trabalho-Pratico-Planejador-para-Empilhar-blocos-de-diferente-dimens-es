@@ -5,7 +5,7 @@
 %--------------------------------------------------------------------------------------------------
 % Professor: Edjard Mota
 % Alunos: Tedy Prist       - 22050676
-%         Isabelly Rohana  - 
+%         Isabelly Rohana  - 21352282
 %--------------------------------------------------------------------------------------------------           
 %                Project: Prolog Programming for AI, Ivan Bratko, 4th edition
 %                               Chapter 17 - Planning          
